@@ -8,4 +8,7 @@
 2-  پروژه تخمین قیمت خانه بر اساس یادگیری ماشین و یادگیری عمیق deep_learning.rar
 
 3- پروژه تشخیص واترمارک در تصاویر محصولات دیجی کالا  pic project.ipynb
+
 4- پروژه تخمین قیمت محصولات دیجی کالا price for digi kala.rar
+
+5-مسابقه کد کاپ سوال اول،دوم و سوم {code cup batelQ1.rar,code cup batelQ2.rar,dataset_usability_predictionQ3.rar}
